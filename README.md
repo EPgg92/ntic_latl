@@ -23,3 +23,10 @@ http://russmaxdesign.github.io/02-bootstrap-kickoff-template-image/
 ### Concrete5
 
 https://www.concrete5.org/
+
+## Model
+
+For obvious reason of security the content of the source code is not shared here.
+But a dev model is searchable here:
+http://latlntic.unige.ch/latl-dev/
+
